@@ -1,0 +1,13 @@
+sportsimages\test\renamed\test1.jpg basketball
+sportsimages\test\renamed\test10.jpg volleyball
+sportsimages\test\renamed\test11.jpg football
+sportsimages\test\renamed\test12.jpg football
+sportsimages\test\renamed\test13.jpg basketball
+sportsimages\test\renamed\test2.jpg volleyball
+sportsimages\test\renamed\test3.jpg football
+sportsimages\test\renamed\test4.jpg football
+sportsimages\test\renamed\test5.jpg volleyball
+sportsimages\test\renamed\test6.jpg football
+sportsimages\test\renamed\test7.jpg football
+sportsimages\test\renamed\test8.jpg volleyball
+sportsimages\test\renamed\test9.jpg volleyball

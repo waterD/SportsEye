@@ -1,0 +1,13 @@
+sportsimages\train\renamed\train1.jpg 120,238,137,119 basketball
+sportsimages\train\renamed\train10.jpg 334,36,61,115 volleyball
+sportsimages\train\renamed\train11.jpg 0,242,501,528 football
+sportsimages\train\renamed\train12.jpg 100,336,197,183 football
+sportsimages\train\renamed\train13.jpg 155,38,80,135 basketball
+sportsimages\train\renamed\train2.jpg 398,7,476,263 volleyball
+sportsimages\train\renamed\train3.jpg 267,306,334,246 football
+sportsimages\train\renamed\train4.jpg 166,752,311,170 football
+sportsimages\train\renamed\train5.jpg 578,77,185,318 volleyball
+sportsimages\train\renamed\train6.jpg 244,414,256,151 football
+sportsimages\train\renamed\train7.jpg 236,419,284,216 football
+sportsimages\train\renamed\train8.jpg 101,25,246,287 volleyball
+sportsimages\train\renamed\train9.jpg 509,5,306,388 volleyball
